@@ -1,0 +1,9 @@
+h3{ 
+    font-style: oblique;
+    color:darkslategray;
+    font-weight:bolder;
+}
+div{
+    background-color: cornflowerblue;
+    padding: 10px;
+}
